@@ -1,17 +1,7 @@
 {
-  {
-    user_id: 001
-    user_name: "Andrea S@#$%^&^%$#",
-    user_email: "andrea@doll-house.ai"
-  },
-  {
-    user_id: 003,
-    user_name: "Lilah a;sodijfapoweijf",
-    user_email: "lilah@foo.com"
-  },
-  {
-    user_id: 003,
-    user_name: "Philip ;alksdjflasdjf",
-    user_email: "philip@bar.com"
+  {"user":{
+    "id": 001,
+    "name": "Andrea"
+    }
   }
 }
